@@ -1,4 +1,4 @@
-![Build and Deploy via Sync](https://github.com/iansantagata/Website/workflows/Build%20and%20Deploy%20via%20Sync/badge.svg)
+![Deploy via Sync](https://github.com/iansantagata/Website/workflows/0Deploy%20via%20Sync/badge.svg)
 
 ## Personal Website
 
