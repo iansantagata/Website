@@ -3,7 +3,7 @@
 [![Site HTTP Header Security](https://img.shields.io/security-headers?url=https%3A%2F%2Fiansantagata.com&label=Security%20Headers%20Grade&color=blue)](https://securityheaders.com/?q=https%3A%2F%2Fiansantagata.com%2F&followRedirects=on)
 [![License](https://img.shields.io/github/license/iansantagata/Website?label=License&color=yellow)](../LICENSE)
 <!-- Developmental Badges -->
-[![Deploy via Sync](https://github.com/iansantagata/Website/actions/workflows/main.yml/badge.svg)](https://github.com/iansantagata/Website/actions/workflows/main.yml)
+[![Continuous Deployment](https://github.com/iansantagata/Website/actions/workflows/main.yml/badge.svg)](https://github.com/iansantagata/Website/actions/workflows/main.yml)
 
 ## Personal Website
 
